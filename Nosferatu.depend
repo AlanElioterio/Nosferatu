@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1738519857 source:c:\users\alan\documents\nosferatu\nosferatu\game.cpp
+
+1738523376 source:c:\users\alan\documents\nosferatu\nosferatu\new_game.cpp
+
+1738527590 source:c:\users\alan\documents\nosferatu\nosferatu\menu.cpp
+	<windows.h>
+	<gdiplus.h>
+
+1738526773 source:c:\users\alan\documents\nosferatu\nosferatu\resources.rc
+
